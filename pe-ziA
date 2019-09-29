@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="stylesheet.css">
+    <meta charset="utf-8">
+    <title>東京ベアーズHP</title>
+  </head>
+  <body>
+      <header>
+       <h1 class="header-h1">東京ベアーズ</h1>
+      <ul class="header-ul">
+          <li><a href="https://bigjapanese.github.io/biguma/">ホーム</a></li>
+        　<li><a href="pe-ziC.html">チームメンバー</a></li>
+          <li><a href="pe-ziD.html">試合結果</a></li>
+          <li><a href="pe-ziB.html">お問い合わせ</a></li>
+          <li><a href="pe-ziA.html">入団案内</a></li>
+      </ul>
+      </header>
+      <div class="A-top top">
+          <h1 class="A-top-h1">＜入団案内＞</h1>
+         　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<span class=A-top-span>どなたでも歓迎</span><br><br><br><br>
+          <h3 class="A-top-h3">　　　　　　　　　　　　　　　　　　　　　＜ご連絡はこちらまで＞</h3>
+          <h4>dadadadad@gmil.com</h4>
+      </div>
+  </body>
+</html>
